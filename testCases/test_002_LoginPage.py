@@ -19,7 +19,7 @@ class TestAccountLoginPage:
 
         self.hp = Home(self.driver)
         self.logger.info("clicking on my account")
-        self.hp.Myaccount()
+        self.hp.Myaccounthp()
         self.logger.info("clicking on Login")
         self.hp.Login()
 

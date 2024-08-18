@@ -1,1 +1,1 @@
-pytest -v -s C:\Users\MR.WICK\PycharmProjects\QAFOX\testCases\test_002_LoginPage.py
+python -m pytest -v -s C:\Users\MR.WICK\PycharmProjects\QAFOX\testCases\test_002_LoginPage.py
