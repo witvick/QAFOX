@@ -1,0 +1,4 @@
+# Fix syntax highlighting for devcontainer files
+*.HTML linguist-language=Pyhton
+*.HTML linguist-language=Python
+
